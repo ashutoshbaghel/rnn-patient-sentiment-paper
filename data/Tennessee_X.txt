@@ -1,0 +1,4 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+2	1	commentsDr. Xu is very kind and wise! I recommend him to anyone needing help with their health. 	5	5	5	5	Insurance:Unknown
+2	1	.  Wonderful caring Dr! 	5	5	5	5	Insurance:CIGNA
+3	1	 Nick is flat-out superb. Personable, courteous, unhurried, knowledgeable, and just plain likes people, as well as being a good doc. In-hospital or out, he takes time to listen and explain, both to patients and families. Gives patients his cell phone number, and he personally answers it! When there's a bump (and they do happen), takes responsibility and fixes it. Clearly well trained with good mature judgment; a physician in and of the old school. Very highly recommended.  	5	5	5	5	Insurance:United Healthcare

@@ -1,0 +1,9 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	-1	 	4	3	1	1 	Insurance:Unknown
+2	-1	Arrogant, did not listen, incorrect diagnosis, added information to answers, perjured himself under oath at hearing, spent 14 hours in a hearing defending his evaluation, did not conduct complete evaluation, fabricated information, asked misleading questions, admitted to not conducting and knowing enough facts to make an accurate evaluation. 	 3/3/09	2	3	1	Insurance:Unknown
+3	1	She was very nice, my child loved her. She was very helpful and you can tell she loves what she does.  Very recommended 	5	5	5	5 	Insurance:United Healthcare
+4	1	I went to Dr Urig for gum problem which turned out to be precancerous. He was very patient in explaining what was happening to my gums and drew diagrams to illustrate his point. During subsequent treatment I always found him patient, never rushing through procedures. Always made me feel welcome. 	5	5	5	5 	Insurance:Unknown
+5	1	Finally found a wonderful pediatrician in Dr. Upplegger. Have been taking my 3 children there for the past 14 years.  	5	2	5	5 	Insurance:CIGNA
+5	1	Best doctor in albuquerque...long wait but well worth it..  	4	3	5	5 	Insurance:Medicaid / Medi-Cal
+5	1	. best dr, staff are rude and wait 3 hrs past apt time to see dr 	1	2	5	5 	Insurance:Medicaid / Medi-Cal
+5	1	He is super nice. I have been seeing him since I was 5 years old.  	5	5	5	5 	Insurance:Medicaid / Medi-Cal

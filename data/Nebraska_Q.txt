@@ -1,0 +1,3 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+4	-1	 I had to see Dr. Quinn while my doctor was out of town.  Never again will I go to this man.  Not sure if it was because I wasn't his patient or what but he was so very rude and short with me.  My blood was boiling by the time I left the office I just had to sit in my car and cool off.  If you are looking for someone who is compassionate and kind do not go to this jerk.  	3	3	1	2	Insurance:Blue Cross / Blue Shield
+5	1	.  Pleasurable experience - would recommend 	5	5	5	5	Insurance:Blue Cross / Blue Shield

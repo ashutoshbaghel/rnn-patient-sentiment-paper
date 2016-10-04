@@ -1,0 +1,9 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	1	went to many doctors who could not diagnose knee problem. saw him once and he knew what it was. had surgery and recovered. would highly recommend 	5	5	5	5 	Insurance:Unknown
+1	1	My son had rods inplanted in his back for scoliosis, this MD was extremely patient with all of our questions. He treated my 16 yr old as an adult. we were very comfortable with him 	5	5	5	5 	Insurance:Unknown
+1	1	Dr. Urbanek specializes in pediatric orthopedics. My son had back pain for months before we saw him. This doctor knew what was wrong right away and treated my son with a back brace. My son has been absolutley fine -- no pain -- for over 3 years. We are very grateful for his knowledgable, professional care. Highly recommended.  	 9/30/07	5	5	5	Insurance:Blue Cross / Blue Shield
+2	1	I've been going there for years. Dr Ura is a very good dentist and his staff is wonderful. I just wish he was on the preferred list of dentist that my insurance has so it would cut some of the out of pocket expense. 	5	5	5	5 	Insurance:Unknown
+2	1	Great team. Very friendly and helpful. Thank you . 	5	5	5	5 	Insurance:Unknown
+2	1	What a great find.  I am so happy to have found a great Dentist and team.  Thank-you Dr Ura 	5	5	5	5 	Insurance:Unknown
+3	1	very knowledgeable and smart doc. I will visit the office again.  	5	5	5	5 	Insurance:Aetna
+3	-1	Never returned my call, neither he or his staff.  	3	3	1	2 	Insurance:Anthem

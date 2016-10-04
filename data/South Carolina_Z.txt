@@ -1,0 +1,32 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+6	1	commentsJane is wonderful and very easy to talk to 	5	5	5	5	Insurance:Unknown
+7	1	 I have gone to her for the past few years, and she is great.  I have seen alot of dermatologist over the years, and I like her the best.  She doesn't make you feel like an idiot for asking questions etc.  Very knowledgable.  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+7	1	 If you want a Dr. who prevents problems from arising, as well as one who treats with skill and compassion those problems that do arise, she's your girl. Very speedy, punctual appointments, but spends all the time you need to discuss your issues and answer your questions.  		5	5	5	Insurance:Blue Cross / Blue Shield
+12	1	commentsAbout 10 years of going to Dr Zeager.  He's a fine one! 	3	4	5	5	Insurance:Unknown
+12	1	 I HAVE BEEN TO MANY DOC'S. I MOVED TO SC 25 YEARS AGO AND WAS LUCKY TO HAVE SOME ONE  RECOMEND DR. ZEAGER. HE IS THE BEST DOC. I HAVE EVER HAD.  	5	5	5	5	Insurance:Aetna
+12	1	 He is the best doctor in SC. Very knowlegable, kind, polite and cures you every time.  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+12	1	 I have known Mike since he was in medical college. He is courteous, knowledgeable, willing to give his patients the time necessary to fully discuss their case and develop a plan for their medical needs. He is a caring practitioner.  		5	5	5	Insurance:Blue Cross / Blue Shield
+12	1	 Dr. Zeager is one of the most professional and knowledgable Doctors I have been seen by. He treats you with the best care, truely with your interests in mind.  		5	5	5	Insurance:AetnaPaid/Co-pay:$4500
+15	-1	.  very arrogant, had to consult with nurse before making a diagnosis,his treatments did not help 	3	3	1	1	Insurance:Tricare
+23	-1	 This doctor gives one word answers to queries about test results. When I was sent to Urgent Care after hours by the on-call Doctor for the practice, neither Dr.zwerner nor his staff called to follow-up. Since I couldn't get anything but one word answers, I obtained his notes about my visit and they claimed everything was normal even though I reported severe pain and the EKG was so abnormal he made the techs do it again because he thought they did it wrong (second result was the same as the first) and he then ordered extensive tests without any explanation of what the tests were looking for or why. I cannot recommend this doctor to anyone.  	4	4	1	3	Insurance:Blue Cross / Blue Shield
+36	1	commentsAbsolutely the best doctor I have ever known. 		5	5	5	Insurance:Unknown
+36	1	commentsSaved grandmothers life. Lived 5 years passed her expectantcy. She lived to be 87 years old. Most doctors would not have bothered. Love him. 		5	5	5	Insurance:Unknown
+37	1	comments 	5	2	5	4	Insurance:Unknown
+38	1	 Kind, friendly, genuine with me and my child.  Gave forthright assessment.  Suggested options for treatment without pressure.  Specifically, my son has ADHD and she gave several non-medication instructions as well as medical options.  	4	5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:$20
+39	-1	 I went in for Leg Cramps. This Dr gave me a prescription that has been banned since 2006. Then he called in a drug that helps chest pain and high blood pressure for me. Which I do not have chest pains or high blood pressure. That could have killed me. The worst ever. I dont trust him or his practice.  	2	1	1	1	Insurance:Blue Cross / Blue Shield
+39	-1	 This doctor is a joke! He misdiagnosed me for a very serious ailment, stated I had MS. On top of if all the office is filthy.  		1	1	1	Insurance:Medicaid / Medi-Cal
+40	-1	commentsHe advised me I needed a pace maker.   Two weeks later his associate stated I did not need the pace maker. I had reservations about him from the moment I met him. 	4	2	1	1	Insurance:Unknown
+42	1	commentsBest Doctor ever! she makes you feel like 	5	5	5	5	Insurance:Unknown
+49	1	 After 20yr. of back pain,Dr.Z was the only Doctor that tryed to find out why I had so much pain. He is the most understanding person,and will do anything he can to help you. I will never forget this man or his staff for what they did for me.  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+49	1	commentsbest for back or neck or joint problems 	5	5	5	5	Insurance:Unknown
+54	1	commentsshe is a very caring, conservative doctor who is interested in us as people. 	3	4	5	5	Insurance:Unknown
+54	1	commentsThe best internist and ophthalmologist in South Carolina. With the study and technique, she could save a life in a heart beat! 	5	5	5	5	Insurance:Unknown
+54	1	commentsDr. Zotovic is an excellent doctor! She spends as much time as you need with you. I definitely recommend her! 	5	5	5	5	Insurance:Unknown
+54	1	 Dr. Zotovic is caring and concerned about her patients.  She also gives samples if a patient is having a hard time paying for meds.  Her sense of humor puts patients at ease, and she always gives me words of encouragement.  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+54	1	 I've been seeing Dr. Zotovic for 9 years. She IS caring and knowing. If she cannot help you, she does not hesitate to refer you. My entire family has seen her...  I cannot believe one report from one problem could misrepresent a doctor's ability such as the previous one did! 	5	3	5	4	Insurance:Blue Cross / Blue Shield
+54	-1	.  would not recommend this doctor, trained in eastern europe, has careless attitude, does not communicate well 	3	3	1	1	Insurance:Blue Cross / Blue Shield
+58	1	commentsDr zealberg is a wonderful doctor because he comes from a wonderful family gene pull. I know because I am one of his 45 first cousins. 	5	5	5	5	Insurance:Unknown
+58	1	commentsDr. Zealberg is a wonderful doctor with a great reputation in our community. He is as kind and generous with his time as he is knowledgeable, both about pharmacology and emotional issues. 		5	5	5	Insurance:Unknown
+61	-1	 Staff gave wrong information about prep protocol and then he blamed patient and colonoscopy has to be repeated. Staff sent patient home before out of anesthesia and he nearly fell and injured himself.  	1	1	1	1	Insurance:Blue Cross / Blue Shield
+63	-1	.   	1	3	1	3	Insurance:United Healthcare
+63	1	 Dr.Zimmerman was very attentive and spent more time with me than any other doctor I've ever been to. He diagnosed my problem and prescribed the necessary medications that cured me. I would highly recommend him to anyone looking for a family doctor in the Aiken area.  	4	4	5	5	Insurance:United HealthcarePaid/Co-pay:$25

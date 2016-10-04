@@ -1,0 +1,6 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+2	-1	 This is the roughest dentist I have ever been to. Jammed shots into my mouth repeatedly and did it very forcefully even after I voiced discomfort. Was very mean through the procedure as well.  	3	3	1	1	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:$200
+2	-1	 the doctor was very rude and unprofessional to the point of raising her voice and yelling. When I asked her a simple question she walked away.  	3	2	1	1	Insurance:Medicaid / Medi-Cal
+2	-1	 I had complications after surgery because she left pieces of bone in my gums when she stitched it up.  I called for sugestions on what to do for the pain and she hung up the phone on me!!!! 	1	1	1	1	Insurance:Medicaid / Medi-Cal
+8	1	 Excellent patient care. Sincerely interested in patient's total health.  Answers questions and is easily accessible. Skilled surgeon.  	5	5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:$6000
+10	1	commentsHe is compassionate, patience, understanding, gentle and knows how to get releif for his patients.  I would recommend him to everyone. 	5	5	5	5	Insurance:Unknown

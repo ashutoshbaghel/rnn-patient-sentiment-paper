@@ -1,0 +1,20 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+9	1	commentsThis physician was excellent and made the correct diagnosis 	5	5	5	5	Insurance:Unknown
+13	1	commentsI have seen her twice...and I loved her both times....and I dont like DRS 	5	5	5	5	Insurance:Unknown
+13	1	 Very knowledgeable in her field. Patient and thorough in explaining condition, treatment options, and procedures. Understanding and helpful with billing in difficult financial situations. Kind and empathetic demeanor. Encourages patient input--doesn't have that typical &quot;doctor's ego&quot;.  	4	4	5	5	Insurance:Aetna
+13	-1	commentsAverage 	2	2	1	2	Insurance:Unknown
+18	1	 We need more physicians like Dr. Ostrander. He is knowledgeable and caring.  I drive over 20 min to see him.  	4	4	5	5	Insurance:Blue Cross / Blue Shield
+40	-1	commentshorrible,horrible man! rude,obnoxious, does not relate well to his patients, only in it for the money. needs to retire. 	1	1	1	1	Insurance:Unknown
+55	-1	 Office is only open 2 days per week and the doctor is often not there those days or has to unexpectedly cancel.  Wait time for an appointment is often 2 to 3 weeks.  Dr. Orme himself is very nice and professional, but was educated outside the USA and seems to be lacking a little of the knowledge of other doctors.  My major complaint is that he never remembers any of my last visits, so establishing any type of medical relationship and/or history with him is probably out of the question.  	4	2	2	2	Insurance:Tricare
+71	-1	commentshe is average 		1	1	1	Insurance:Unknown
+72	1	commentsHe wasn't very nice or gentle. Also, he didn't seem to care that what he was doing hurt horribly 	5	3	4	4	Insurance:Unknown
+78	1	commentsA very thorough doctor.  He explains everything in words that I understand and answers all my questions.  I wish I could work my schedule out to see him as often as I would like. 	5	5	5	5	Insurance:Unknown
+78	1	 Wonderful Dr. and staff.  Very friendly and professional.  Would definitely recommend.  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+78	1	commentsVery Caring Doctor, he called to check on me after my first adjustment to see how I was and to remind me to ice. 	5	5	5	5	Insurance:Unknown
+78	1	 A fantastic chiropracter.  Professional, but very patient and friendly...We hate to lose him, since he is moving to another location....  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+78	1	commentsA great Chiropractor.  I won't see anyone else. Always has a smile on his face and answers my questions patiently. 	4	5	5	5	Insurance:Unknown
+83	1	 Very knowlegeable and friendly doctor. Seemed concerned and to care about my condition.  	4	4	5	5	Insurance:United Healthcare
+83	1	 I thought he was great.  Very friendly, very knowledgable, and very helpful.  I would refer someone to see him in a minute.  	5	5	5	5	Insurance:Blue Cross / Blue Shield
+83	1	commentsColonoscopy was in and out 	4	5	4	5	Insurance:Unknown
+83	-1	comments 		5	1	1	Insurance:Unknown
+99	1	 Great doctor...wonderful nurse very concered and makes u feel comfortable and well taken care of...cant wait to experience childbirth with her and her team.  	5	5	4	3	Insurance:Blue Cross / Blue Shield

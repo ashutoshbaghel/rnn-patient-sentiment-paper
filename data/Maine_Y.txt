@@ -1,0 +1,3 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	1	Very nice physician. Thoughtful and pleasant. Explains things very well.  	4	5	5	5 	Insurance:Harvard-Pilgim
+1	1	One of the BEST physicians I've met.  Punctual, efficient, and very knowledgeable. 	5	5	5	5 	Insurance:Unknown

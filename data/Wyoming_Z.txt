@@ -1,0 +1,2 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+3	1	 great Dr.  direct and to the point,extremely knowledgeable 	5	5	5	5	Insurance:Veterans Administration

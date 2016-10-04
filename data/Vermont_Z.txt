@@ -1,0 +1,9 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	-1	You won't see a doctor, only an assistant.  If the assistant isn't knowledgeable, you're out of luck.Will only hear ONE medical problem per visit even if you mention the problems when you make your appointment.  	1	3	1	1 	Insurance:Anthem
+1	-1	One of the 5 worst doctors I've ever been to. He doesn't follow through and is very forgetful. I used him 3 times and went back to the G.P. I've had for over 5 yrs. I wouldn't let him work on my cat or dog, thats how strongly I feel about his competence.  		2	1	1 	Insurance:Medicare
+1	-1	The WORST! Almost killed me. Thank God he was away for a weekend and another Dr. looked in on me and figured out that I was in septic shock and immediately operated.  STAY AWAY!! 		5	1	1 	Insurance:Blue Cross / Blue Shield
+2	1	Kind, attentive doctor who takes the time to really hear his patients and get to the bottom of what ails them.  	5	5	5	5 	Insurance:Medicaid / Medi-Cal
+3	1	Dr. Zimpfer has been in Bennington a long time and provides excellent care.  He's very caring and through. 	5	5	5	5 	Insurance:Unknown
+3	1	Dr. Zimpfer is a very caring and knowledgeable physician.  He has treated almost all of my family members in the ER at one time or another with the same professionalism and empathy no matter what the medical problem or how long he has been working.  Even when his shift is over he makes sure you are comfortable and you are getting the care you need.  I wish he had his own practice.  	5	5	5	5 	Insurance:Medicare
+4	-1	.  	3	3	1	1 	Insurance:Blue Cross / Blue Shield
+5	1	Seems to be getting ready to retire.  	3	4	4	4 	Insurance:CIGNA

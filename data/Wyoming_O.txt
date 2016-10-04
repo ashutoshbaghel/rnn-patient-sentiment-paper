@@ -1,0 +1,5 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+2	1	comments 	5	5	5	5	Insurance:Unknown
+5	1	comments 	5	5	5	5	Insurance:Unknown
+15	1	commentsVery good doctor who take time to help his patients. 	5	5	5	5	Insurance:Unknown
+19	1	 i came into the ER with multiple severe injuries he was very professional and calledwho he needed to No arrogance! He did a fantastic job at taking care of me and my family. He is A good ol' Dr.   I highly recommend him.  If you get to the ER and end up with Lisa Gwin refuse and ask for Doc Orbin! 	5	5	5	5	Insurance:United Healthcare

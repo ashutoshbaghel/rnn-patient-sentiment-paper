@@ -1,0 +1,12 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	-1	. She is the worse docter ever she got my due date wrong and gave me antibiotics that i did not need shes rude and all she does is sit there and say uh huh uh huh!i could tell her im having a heart attack and she would say uh huh uh huh!not to mention how rough she was with me she actually pinched scratched me when she was measuring my belly my husband was furious so we changed docters to a wonderful one 	5	2	1	1 	Insurance:Tricare
+2	1	She was very Kind and made me feel a little better about my situation 	5	5	5	5 	Insurance:Unknown
+3	-1	.  	2	3	1	3 	Insurance:Blue Cross / Blue Shield
+4	0	Unpleasant. If i could have only dealt with just the doctor it would have been fine. Hes staff was awful. 	1	1	2	3 	Insurance:Unknown
+5	-1	Absolutely the wost doctor Ive experienced.  Walked out of the exam room without saying a single word.  He was rude, inconsiderate and completely incompetent.  I would NEVER go back to him.  	3	1	1	1 	Insurance:Humana
+6	-1	My father was a patient of Dr. Nygard's.  He died in 2007, thanks to this doctor's negligent care.  After my Dad was hospitalized, &quot;Doogie Howser&quot; (as his colleagues called him) rushed through his morning visits with my Dad and had a terrible bedside manner.   Thanks for making it so I'll never trust another doctor &quot;Doogie&quot;! 	2	1	1	1 	Insurance:Medicare
+7	-1	Hardly looks at you and uses ultrasound every time.  You just get billed for it  why can't he examine like the other rheumatologist&#63; 	3	3	1	1 	Insurance:Blue Cross / Blue Shield
+7	-1	Spends all of the time in the appointment staring at a computer. Uses an ultra sound for no apparent reason.  Never listens to the patient 	3	2	1	1 	Insurance:Medicaid / Medi-Cal
+8	1	Dr. Newman gave us hope after a cardiologist in Grand Forks would not touch my husband's aortic aneurysms, saying &quot;nothing can be done&quot;. She's sharp and I have no doubts that she knows what she's talking about. 	5	5	5	5 	Insurance:Unknown
+8	1	completed major heart surgery on my mother in 3 1/2 hours.   Very competent, outstanding doctor! 	5	5	5	5 	Insurance:Medicare
+8	1	Dr. Newman performed a high-risk bypass surgery on my grandfather, who is 89.  She explained the procedure very well so he was able to make an informed decision.  Things couldn't have gone better, and I'm confident his quality of life will be much better because of it.  	5	5	5	5 	Insurance:Veterans Administration

@@ -1,0 +1,20 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+13	1	comments 	5	5	5	5	Insurance:Unknown
+16	1	 Dr. Haas is my favorite doctor.  I am dreading the day he retires! Best OB/GYN ever! 	5	5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+16	1	 Dr. Haas is always ery professional and knowledgable.  I would recommend him to anyone.  	4	3	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+16	1	 he is very kind, but is always 15 min or so late for my appt.  	3	1	4	3	Insurance:TricarePaid/Co-pay:N/A
+16	1	 He's the best doctor I've ever had. He's wonderful. When I think of doctors that seem to truly have a calling to the profession, he's the one that pops in my mind. I can't speak any more highly of him.  		5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+16	1	 Dr. Haas treats patients with kindness and empathy and applies his knowledge and skill to provide quality treatment.  		5	5	5	Insurance:United HealthcarePaid/Co-pay:N/A
+16	1	commentsDr. Haas is the most caring, gentle & knowledgable OBGYN I've ever had! He's the best! 		5	5	5	Insurance:Unknown
+20	1	 Very helpful/friendly staff. Never have had a long wait and sometimes called before scheduled appointment. Dr. is very knowledge, helpful and kind.   He was located at a different location and we followed him to his knew location, which is a very beautiful clean office 	5	5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+25	0	 Nice Doctor with a pleasant demeanor. However old and not very good at diagnosing. The nurses joke about him, they don’t divulge privileged information but he is clearly not respected.  My experience is he makes guesses and assumes he is correct without taking time for tests and doesn’t  like when a second opinion is asked for. Some of the locals will not deal with him because of being to “old school.” All in all pleasant but not a very good doctor. He is at a point where he should just retire.  	5	5	2	3	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+37	1	 Dr. Halbur is an awesome doctor!  King, caring, and knowledgable.  He spends whatever time YOU need to get to the bottom of whatever your medical issue is.  I ahve been a patient for the past 14 years and think he is first class.  you cannot go wrong trusting Dr. Halbur with your medical needs.  If he thinks you need a specialist, he will not hesitate to tell you.  Another sign of a great doctor.  His bedside manner is second to none.  	5	5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+42	1	 Wonderful physician.  Generally listens to what you have to say.  Checks out resources on your problem if she can't fix it herself.  	4	4	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+47	1	.  He really helped me and spent time listening and explaining 	4	4	4	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+47	-1	commentsDon't bother with him if you are looking for a fibromyalgia diagnosis. 	4	4	2	1	Insurance:Unknown
+48	1	comments 	5	3	5	5	Insurance:Unknown
+66	-1	commentsThis doctor is beyond rude. She does not care about what you have to say. Her attitude is the worst i've ever encountered.Does not even acknowledge you as a patient and cuts you off as you are speaking. Frowns constantly as if you came in to bother her. Not recommended!!! 	4	1	1	1	Insurance:Unknown
+66	-1	 Would never go to her again.  She is very rude, rough  and unfriendly. She treated me like an animal, not a person. I went home a cried after my appointment.  Get out of medicine, if you do not like working with people.  	3	2	1	3	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+66	-1	comments 	4	4	1	2	Insurance:Unknown
+69	1	.  he s great with kids and also explaining things 	5	5	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A
+87	1	 Very helpful and knowledgeable in field. Refers to larger hospital for things that are above her knowledge or ability which is greatly appreciated. Very friendly and great with children.  	4	4	5	5	Insurance:Blue Cross / Blue ShieldPaid/Co-pay:N/A

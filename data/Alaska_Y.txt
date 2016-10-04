@@ -1,0 +1,4 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	1	Dr. Linda Yinkey is the tops...terrific physician. She is knowledgeable in her work. She is caring, she is soft spoken to her patients. I trust her with my life, since my health is in her hands and care.I would most definitely refer her to other Military dependents or retirees or active duty patients in need of internist care.  	5	4	5	5 	Insurance:Tricare
+2	1	Doc Yates is the man. Must have an appointment for in office visit because he is out in his plane, 4 wheeler or snowmachine doing housecalls. 	4	4	5	5 	Insurance:Unknown
+3	-1	can be very scary, movie type shrink where he decides what is wrong before he sees you. And his staff says that you can't be believed because you are crazy...Talk softly and walk away...  	1	5	1	2 	Insurance:Blue Cross / Blue Shield

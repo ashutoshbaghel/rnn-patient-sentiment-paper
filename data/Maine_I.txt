@@ -1,0 +1,2 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	1	Awesome Doctor. Very knowledgeable and professional. Not a pill pusher. Works to heal the whole body. Looks for the cause not just the cure.  	5	5	5	5 	Insurance:Blue Cross / Blue Shield

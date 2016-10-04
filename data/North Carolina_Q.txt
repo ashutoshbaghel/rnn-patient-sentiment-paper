@@ -1,0 +1,8 @@
+dr-id	rating	review-text	staff	punctual	helpful	knowledge	insurance
+1	1	Very caring!  Called from his personal residence to check on my father after his laser glaucoma surgery.  	5	5	5	5 	Insurance:Blue Cross / Blue Shield
+1	0	Would not stand behind work of another Doctor who had left Practice.  	4	3	2	4 	Insurance:Medicare
+2	1	Dr. Quinn is a very nice and intelligent man.  He is helpful and willing to listen to your concerns but also speaks frankly--an important characteristic in a physician.  The PAs and front staff are fairly poor, but all of the nurses, phlebotomists and physicians are helpful and very considerate.  	1	3	5	5 	Insurance:Blue Cross / Blue Shield
+2	-1	.  	1	1	1	2 	Insurance:Blue Cross / Blue Shield
+3	1	This man literally saved my life!!  I went to him for many years!  Love him!!! 	5	5	5	5 	Insurance:Unknown
+4	1	very good at diagnosis. helps you make the decition of treatment YOU want to use.works well with all treating doctors. A very good woman.  	3	4	5	5 	Insurance:Blue Cross / Blue Shield
+4	-1	Didn't really listen. 	 8/30/08	3	3	1	Insurance:Unknown
