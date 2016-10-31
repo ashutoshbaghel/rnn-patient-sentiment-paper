@@ -16,6 +16,9 @@ from keras.layers import LSTM, SimpleRNN, GRU
 
 from sklearn.metrics import roc_auc_score
 
+# This import to resolve some errors with tf version on office server
+import tensorflow as tf
+tf.python.control_flow_ops = tf
 
 def get_idx_from_sent(sent, word_idx_map, max_l=51, kernel_size=5):
     """
