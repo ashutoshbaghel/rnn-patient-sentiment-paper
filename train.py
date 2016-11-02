@@ -103,7 +103,7 @@ model = Sequential()
 model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
 model.add(LSTM(300))
 model.add(Activation('relu'))
-model.add(Dense(1))
+model.add(Dense(2))
 model.add(Activation('sigmoid'))
 
 
